@@ -30,7 +30,7 @@
         width="40" height="40" /> </a> </p>
         
 <div display="flex" width="100%" >
-  <p><img align="right"
+  <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vakulina&show_icons=true&locale=en&layout=compact"
     alt="vakulina" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vakulina&show_icons=true&locale=en"
