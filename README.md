@@ -1,4 +1,4 @@
-<h1 align="left">Привет! 👋, Меня зовут Виктория</h1>
+<h1 align="left">Привет! 👋 Меня зовут Виктория</h1>
 <h3 align="left">Я начинающий веб-разработчик.</h3>
 
 - 🔭 Я заканчиваю дипломный проект в Я.Практикум ["Movies"](http://movies-project.nomoredomains.work/)
