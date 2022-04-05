@@ -6,7 +6,7 @@
 - 🌱 Хочу применить свои знания на реальном проекте
 - 🤝 Я стремлюсь работать в команде профессионалов 
 - 👨‍💻 Ознакомиться с моими работами можно здесь: [https://github.com/Vakulina?tab=repositories](https://github.com/Vakulina?tab=repositories)
- Свяжитесь со мной по почте **dev@viktoria-yakovleva.ru** или в telegram **https://t.me/Vakulina_tag**
+- 📫 Свяжитесь со мной по почте **dev@viktoria-yakovleva.ru** или в telegram **https://t.me/Vakulina_tag**
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
